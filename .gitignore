@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+env/
+dist/
+build/
+node_modules/
+backend/model/*.joblib
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# Model files
+*.joblib
+*.pkl
+
+# Env
+.env
+
+# OS
+.DS_Store
+
