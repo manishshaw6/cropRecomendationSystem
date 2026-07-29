@@ -10,7 +10,6 @@ env/
 dist/
 build/
 node_modules/
-backend/model/*.joblib
 frontend/dist/
 
 # Python
@@ -22,8 +21,7 @@ __pycache__/
 node_modules/
 
 # Model files
-*.joblib
-*.pkl
+
 
 # Env
 .env
